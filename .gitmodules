@@ -1,0 +1,21 @@
+[submodule "px4_ros_com_ros2/src/octomap_server_ros2"]
+	path = px4_ros_com_ros2/src/octomap_server_ros2
+	url = git@github.com:dasc-lab/octomap_server_ros2.git
+[submodule "px4_ros_com_ros2/src/octomap_msgs"]
+	path = px4_ros_com_ros2/src/octomap_msgs
+	url = https://github.com/OctoMap/octomap_msgs.git
+[submodule "px4_ros_com_ros2/src/pcl_msgs"]
+	path = px4_ros_com_ros2/src/pcl_msgs
+	url = https://github.com/ros-perception/pcl_msgs.git
+[submodule "px4_ros_com_ros2/src/percpetion_pcl"]
+	path = px4_ros_com_ros2/src/percpetion_pcl
+	url = https://github.com/ros-perception/perception_pcl.git
+[submodule "px4_ros_com_ros2/src/perception_pcl"]
+	path = px4_ros_com_ros2/src/perception_pcl
+	url = https://github.com/ros-perception/perception_pcl.git
+[submodule "px4_ros_com_ros2/src/px4_msgs"]
+	path = px4_ros_com_ros2/src/px4_msgs
+	url = https://github.com/dasc-lab/px4_msgs.git
+[submodule "px4_ros_com_ros2/src/px4_ros_com"]
+	path = px4_ros_com_ros2/src/px4_ros_com
+	url = https://github.com/dasc-lab/px4_ros_com.git
