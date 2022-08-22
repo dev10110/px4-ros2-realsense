@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  ros2:
+    build: 
+      context: .
+      dockerfile: ros2.Dockerfile
+    volumes:
+      - ./px4_ros_com_ros2:/root/px4_ros_com_ros2
+    privileged: true
+    tty: true
+    network_mode: "host"
+    
